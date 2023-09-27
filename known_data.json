@@ -1,0 +1,28 @@
+{
+    "players": {
+        "94506090": {"BGA": "tungufoss", "BGG": "tungufoss"},
+        "94510782": {"BGA": "1337Kit", "BGG": "Kristín"},
+        "85780987": {"BGA": "GameSommelier", "BGG": "GameSommelier"}
+    },
+    "games": {
+      "Lucky Numbers": {"BGG": 118247},
+      "Innovation": {"BGG": 63888},
+      "Carcassonne": {"BGG": 822},
+      "Living Forest": {"BGG": 328479},
+      "Lost Cities": {"BGG": 50},
+      "Patchwork": {"BGG": 163412},
+      "Potion Explosion": {"BGG": 180974},
+      "Targi": {"BGG": 118048},
+      "Spots": {"BGG": 372559},
+      "Splendor": {"BGG": 148228},
+      "Ticket to Ride": {"BGG": 9209},
+      "Wingspan": {"BGG": 266192},
+      "7 Wonders Duel": {"BGG": 173346},
+      "Can&#39;t Stop Express": {"BGG": 217547},
+      "Canvas": {"BGG": 290236},
+      "Forrest Shuffle": {"BGG": 391163},
+      "Santorini": {"BGG": 194655},
+      "Turing Machine": {"BGG": 356123},
+      "innovationalpha": {"BGG": 388367}
+    }
+}
